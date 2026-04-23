@@ -2,8 +2,8 @@
 This my third project in the capstone course of Udacity's Master's Degree in AI (https://www.udacity.com/masters-artificial-intelligence). 
 
 ## Overview
-In this project, we complete a full machine learning workflow for a dataset on whine quality (https://archive.ics.uci.edu/dataset/186/wine+quality). 
-This dataset contains two csv files on chemical properties and quality scores of red and white whines, respectively. We will focus on the white wine data in this project (file <i>winequality-white.csv</i>).
+In this project, we complete a full machine learning workflow for a dataset on wine quality (https://archive.ics.uci.edu/dataset/186/wine+quality). 
+This dataset contains two csv files on chemical properties and quality scores of red and white wines, respectively. We will focus on the white wine data in this project (file <i>winequality-white.csv</i>).
 
 We start by loading, cleaning and rescaling the data. We then try to classify the quality using the chemical properties by fitting a decision tree model. 
 We apply regularization techniques to avoid overfitting, evaluate the model performance, and conclude by a short summary of our findings.
