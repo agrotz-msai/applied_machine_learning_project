@@ -10,7 +10,7 @@ We apply regularization techniques to avoid overfitting, evaluate the model perf
 
 ## How to run the project
 The main component of the project is the Jupyter notebook 'modeling.ipynb'.
-When checking out this repository, the dataset file 'train.csv' is already included.
+When checking out this repository, the dataset file 'winequality-white.csv' is already included.
 In addition, the repository contains a 'requirements.txt' file with all required dependencies, which was generated via the command
 	
 	pip freeze > requirements.txt
